@@ -1,0 +1,175 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tech secrets\\Desktop\\MapApp\\MapApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F9C75D7E-1AC3-4250-8874-A197D20AA5D6}|MapApp.csproj|c:\\users\\tech secrets\\desktop\\mapapp\\mapapp\\pointcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9C75D7E-1AC3-4250-8874-A197D20AA5D6}|MapApp.csproj|solutionrelative:pointcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9C75D7E-1AC3-4250-8874-A197D20AA5D6}|MapApp.csproj|c:\\users\\tech secrets\\desktop\\mapapp\\mapapp\\mapapp.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{F9C75D7E-1AC3-4250-8874-A197D20AA5D6}|MapApp.csproj|solutionrelative:mapapp.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9C75D7E-1AC3-4250-8874-A197D20AA5D6}|MapApp.csproj|c:\\users\\tech secrets\\desktop\\mapapp\\mapapp\\mapapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{F9C75D7E-1AC3-4250-8874-A197D20AA5D6}|MapApp.csproj|solutionrelative:mapapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9C75D7E-1AC3-4250-8874-A197D20AA5D6}|MapApp.csproj|c:\\users\\tech secrets\\desktop\\mapapp\\mapapp\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9C75D7E-1AC3-4250-8874-A197D20AA5D6}|MapApp.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9C75D7E-1AC3-4250-8874-A197D20AA5D6}|MapApp.csproj|c:\\users\\tech secrets\\desktop\\mapapp\\mapapp\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9C75D7E-1AC3-4250-8874-A197D20AA5D6}|MapApp.csproj|solutionrelative:startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9C75D7E-1AC3-4250-8874-A197D20AA5D6}|MapApp.csproj|c:\\users\\tech secrets\\desktop\\mapapp\\mapapp\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9C75D7E-1AC3-4250-8874-A197D20AA5D6}|MapApp.csproj|solutionrelative:response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9C75D7E-1AC3-4250-8874-A197D20AA5D6}|MapApp.csproj|c:\\users\\tech secrets\\desktop\\mapapp\\mapapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9C75D7E-1AC3-4250-8874-A197D20AA5D6}|MapApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9C75D7E-1AC3-4250-8874-A197D20AA5D6}|MapApp.csproj|c:\\users\\tech secrets\\desktop\\mapapp\\mapapp\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9C75D7E-1AC3-4250-8874-A197D20AA5D6}|MapApp.csproj|solutionrelative:point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MapApp.http",
+              "DocumentMoniker": "C:\\Users\\tech secrets\\Desktop\\MapApp\\MapApp\\MapApp.http",
+              "RelativeDocumentMoniker": "MapApp.http",
+              "ToolTip": "C:\\Users\\tech secrets\\Desktop\\MapApp\\MapApp\\MapApp.http",
+              "RelativeToolTip": "MapApp.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-07-31T20:05:16.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MapApp",
+              "DocumentMoniker": "C:\\Users\\tech secrets\\Desktop\\mapApp\\mapApp\\MapApp.csproj",
+              "RelativeDocumentMoniker": "MapApp.csproj",
+              "ToolTip": "C:\\Users\\tech secrets\\Desktop\\mapApp\\mapApp\\MapApp.csproj",
+              "RelativeToolTip": "MapApp.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-31T20:05:10.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\tech secrets\\Desktop\\MapApp\\MapApp\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\tech secrets\\Desktop\\MapApp\\MapApp\\WeatherForecast.cs",
+              "RelativeToolTip": "WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T20:04:45.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\tech secrets\\Desktop\\MapApp\\MapApp\\Startup.cs",
+              "RelativeDocumentMoniker": "Startup.cs",
+              "ToolTip": "C:\\Users\\tech secrets\\Desktop\\MapApp\\MapApp\\Startup.cs",
+              "RelativeToolTip": "Startup.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBsAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T20:04:36.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Response.cs",
+              "DocumentMoniker": "C:\\Users\\tech secrets\\Desktop\\MapApp\\MapApp\\Response.cs",
+              "RelativeDocumentMoniker": "Response.cs",
+              "ToolTip": "C:\\Users\\tech secrets\\Desktop\\MapApp\\MapApp\\Response.cs",
+              "RelativeToolTip": "Response.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T20:04:34.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PointController.cs",
+              "DocumentMoniker": "C:\\Users\\tech secrets\\Desktop\\MapApp\\MapApp\\PointController.cs",
+              "RelativeDocumentMoniker": "PointController.cs",
+              "ToolTip": "C:\\Users\\tech secrets\\Desktop\\MapApp\\MapApp\\PointController.cs",
+              "RelativeToolTip": "PointController.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAA3wEIAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T17:52:43.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tech secrets\\Desktop\\MapApp\\MapApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\tech secrets\\Desktop\\MapApp\\MapApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T17:52:41.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Point.cs",
+              "DocumentMoniker": "C:\\Users\\tech secrets\\Desktop\\MapApp\\MapApp\\Point.cs",
+              "RelativeDocumentMoniker": "Point.cs",
+              "ToolTip": "C:\\Users\\tech secrets\\Desktop\\MapApp\\MapApp\\Point.cs",
+              "RelativeToolTip": "Point.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T17:52:39.698Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
